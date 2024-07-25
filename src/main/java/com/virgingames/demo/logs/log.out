@@ -1,0 +1,23 @@
+2024-07-25 09:07:53 INFO  HomePage :24 - click on Proxy element for: DefaultElementLocator 'By.xpath: //button[normalize-space()='Bank Manager Login']'
+2024-07-25 09:07:63 INFO  HomePage :30 - click on Proxy element for: DefaultElementLocator 'By.xpath: //button[normalize-space()='Customer Login']'
+2024-07-25 09:07:780 INFO  HomePage :30 - click on Proxy element for: DefaultElementLocator 'By.xpath: //button[normalize-space()='Customer Login']'
+2024-07-25 09:07:11 INFO  HomePage :30 - click on Proxy element for: DefaultElementLocator 'By.xpath: //button[normalize-space()='Customer Login']'
+2024-07-25 09:07:100 INFO  HomePage :24 - click on Proxy element for: DefaultElementLocator 'By.xpath: //button[normalize-space()='Bank Manager Login']'
+2024-07-25 09:07:216 INFO  HomePage :29 - click on [[ChromeDriver: chrome on windows (5fee5135c2da6a9dca3219a63fcf91c3)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-25 09:07:605 INFO  HomePage :33 - click on [[ChromeDriver: chrome on windows (5fee5135c2da6a9dca3219a63fcf91c3)] -> xpath: (//a[@title='Online Slots'])[1]]
+2024-07-25 09:07:68 INFO  HomePage :37 - Get text  [[ChromeDriver: chrome on windows (5fee5135c2da6a9dca3219a63fcf91c3)] -> xpath: (//a[@title='Online Slots'])[1]]
+2024-07-25 10:07:743 INFO  HomePage :29 - click on [[ChromeDriver: chrome on windows (9682f77c01a694d32abe31923cef3c84)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-25 10:07:77 INFO  HomePage :33 - click on [[ChromeDriver: chrome on windows (9682f77c01a694d32abe31923cef3c84)] -> xpath: (//a[@title='Online Slots'])[1]]
+2024-07-25 10:07:643 INFO  HomePage :37 - Get text  [[ChromeDriver: chrome on windows (9682f77c01a694d32abe31923cef3c84)] -> xpath: (//a[@title='Online Slots'])[1]]
+2024-07-25 10:07:704 INFO  HomePage :29 - click on [[ChromeDriver: chrome on windows (5a4a1dfeb15f5e06465e0ad36c8ebb5c)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-25 10:07:93 INFO  HomePage :33 - click on [[ChromeDriver: chrome on windows (5a4a1dfeb15f5e06465e0ad36c8ebb5c)] -> xpath: (//a[@title='Online Slots'])[1]]
+2024-07-25 10:07:270 INFO  HomePage :37 - Get text  [[ChromeDriver: chrome on windows (5a4a1dfeb15f5e06465e0ad36c8ebb5c)] -> xpath: (//a[@title='Online Slots'])[1]]
+2024-07-25 10:07:241 INFO  HomePage :29 - click on [[ChromeDriver: chrome on windows (74949814ac6d5af4cc14aae855691f60)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-25 10:07:396 INFO  LiveCasinoPage :19 - Click on the live casino button 
+2024-07-25 10:07:328 INFO  LiveCasinoPage :24 - Get text  [[ChromeDriver: chrome on windows (74949814ac6d5af4cc14aae855691f60)] -> xpath: (//h2[normalize-space()='Live Blackjack Games'])[1]]
+2024-07-25 10:07:806 INFO  HomePage :29 - click on [[ChromeDriver: chrome on windows (85e2c6111c761c01af6607c4d20c1f21)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-25 10:07:124 INFO  HomePage :33 - click on [[ChromeDriver: chrome on windows (85e2c6111c761c01af6607c4d20c1f21)] -> xpath: (//a[@title='Online Slots'])[1]]
+2024-07-25 10:07:603 INFO  HomePage :37 - Get text  [[ChromeDriver: chrome on windows (85e2c6111c761c01af6607c4d20c1f21)] -> xpath: (//a[@title='Online Slots'])[1]]
+2024-07-25 10:07:138 INFO  HomePage :29 - click on [[ChromeDriver: chrome on windows (50b9fc30d03fc25a72d5a71ea9640e8d)] -> xpath: //label[normalize-space()='Allow all cookies']]
+2024-07-25 10:07:362 INFO  LiveCasinoPage :19 - Click on the live casino button 
+2024-07-25 10:07:596 INFO  LiveCasinoPage :24 - Get text  [[ChromeDriver: chrome on windows (50b9fc30d03fc25a72d5a71ea9640e8d)] -> xpath: (//h2[normalize-space()='Live Blackjack Games'])[1]]
